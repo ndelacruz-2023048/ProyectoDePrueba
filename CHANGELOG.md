@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1-alpha.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.2.0...v1.2.1-alpha.0) (2025-06-07)
+
+
+### Bug Fixes
+
+* se agrega quitan imagenes demas ([53e6e90](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/53e6e9051a865ccaee26195a6b2347d0efc95c30))
+
 ## [1.2.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.1.1...v1.2.0) (2025-06-07)
 
 
