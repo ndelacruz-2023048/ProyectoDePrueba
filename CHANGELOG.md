@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.1.0...v1.1.1) (2025-06-07)
+
+
+### Bug Fixes
+
+* Se agregan dos textos ([62ffda4](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/62ffda452f209cc3fce55632fc512c3017c02988))
+
 ## [1.1.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.0.1...v1.1.0) (2025-06-07)
 
 
