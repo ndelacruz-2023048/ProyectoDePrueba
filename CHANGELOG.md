@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.1.1...v1.2.0) (2025-06-07)
+
+
+### Features
+
+* Se agrega la funcionalidad para sumar siempre +1 ([d5a093c](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/d5a093c330df0f5abc534f65a1c07d5d38c450fe))
+
 ### [1.1.1](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.1.0...v1.1.1) (2025-06-07)
 
 
