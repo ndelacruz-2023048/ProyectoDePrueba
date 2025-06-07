@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v0.2.0...v1.0.0) (2025-06-07)
+
+
+### Features
+
+* Se compone el logo ([31321dc](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/31321dcb1493f05ca7a7967b8a15b491b7528d5d))
+
 ## [0.2.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v0.1.0...v0.2.0) (2025-06-07)
 
 
