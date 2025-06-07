@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v0.1.0...v0.2.0) (2025-06-07)
+
+
+### Features
+
+* se agregan funcionalidad de botones ([fc4dfc0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/fc4dfc036f57b827940eb5927446d72cf9a4f804))
+
 ## [0.1.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v0.0.3...v0.1.0) (2025-06-07)
 
 
