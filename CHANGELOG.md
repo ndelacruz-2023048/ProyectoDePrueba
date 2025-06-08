@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.2.2...v1.3.0) (2025-06-08)
+
+
+### Features
+
+* **dashboard:** Se agrega el dashborad para admin ([0c2fafb](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/0c2fafbd36df063fe8555a8386a1bd8d3b4c65bb))
+
 ### [1.2.2](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.2.1-alpha.0...v1.2.2) (2025-06-08)
 
 
