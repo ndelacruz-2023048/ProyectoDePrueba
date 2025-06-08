@@ -15,6 +15,12 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className={css({width:"100px"})} alt="React logo" />
         </a>
+        <a href="https://react.dev" target="_blank">
+          <img src={reactLogo} className={css({width:"100px"})} alt="React logo" />
+        </a>
+        <a href="https://react.dev" target="_blank">
+          <img src={reactLogo} className={css({width:"100px"})} alt="React logo" />
+        </a>
       </div>
       <h1>Hola Vite Project {count} +{count} +{count}= {count*3}</h1>
       <div className="card">
