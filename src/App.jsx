@@ -18,9 +18,6 @@ function App() {
       </div>
       <h1>Hola Vite Project {count} +{count} +{count}= {count*3}</h1>
       <div className="card">
-        <button clas onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
