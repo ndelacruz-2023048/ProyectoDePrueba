@@ -19,6 +19,12 @@ function App() {
       <h1>Hola Vite Project {count} +{count} +{count}= {count*3}</h1>
       <div className="card">
       </div>
+      <div className="card">
+      </div>
+      <div className="card">
+      </div>
+      <div className="card">
+      </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
