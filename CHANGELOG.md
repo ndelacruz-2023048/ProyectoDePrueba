@@ -2,15 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.3.1](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.3.0...v1.3.1) (2025-06-08)
+### [1.4.2](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.4.1...v1.4.2) (2025-06-08)
+
+### [1.4.1](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.4.0...v1.4.1) (2025-06-08)
+
+## [1.4.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.2.2...v1.4.0) (2025-06-08)
 
 
-### Bug Fixes
+### Features
 
-* **login:** bug login ([8dbb505](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/8dbb505fb7b1e1c26f11973960b92c2afbc4d205))
-* se agregan card que no se veian ([0fae3e5](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/0fae3e5e5e561c8c9b21056ebb4503fa6ccda686))
-
-### [1.2.1](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.2.1-alpha.0...v1.2.1) (2025-06-08)
+* **dashboard:** Se agrega el dashborad para admin ([0c2fafb](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/0c2fafbd36df063fe8555a8386a1bd8d3b4c65bb))
+* se agrega mas titulos ([e4f940f](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/e4f940f20caab8ba4536e95a3389d44c00c9f88f))
 
 ## [1.3.0](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.2.2...v1.3.0) (2025-06-08)
 
@@ -18,6 +20,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * **dashboard:** Se agrega el dashborad para admin ([0c2fafb](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/0c2fafbd36df063fe8555a8386a1bd8d3b4c65bb))
+* se agrega mas titulos ([e4f940f](https://github.com/ndelacruz-2023048/ProyectoDePrueba/commit/e4f940f20caab8ba4536e95a3389d44c00c9f88f))
 
 ### [1.2.2](https://github.com/ndelacruz-2023048/ProyectoDePrueba/compare/v1.2.1-alpha.0...v1.2.2) (2025-06-08)
 
